@@ -1,3 +1,5 @@
+![2022-08-07](https://user-images.githubusercontent.com/111638521/193517999-e18af624-7850-4286-9c17-b15650a55c93.png)
+![2022-08-01](https://user-images.githubusercontent.com/111638521/193518034-84f7f461-79b2-4d01-8721-11ce15882ae6.png)
 ---
 mainImage: ../../../images/part-0.svg
 part: 0
